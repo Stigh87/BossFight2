@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\bin\Debug\net5.0\BossFight@2.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\bin\Debug\net5.0\BossFight@2.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\bin\Debug\net5.0\BossFight@2.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\bin\Debug\net5.0\BossFight@2.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\bin\Debug\net5.0\BossFight@2.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\bin\Debug\net5.0\ref\BossFight@2.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\bin\Debug\net5.0\BossFight@2.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\ref\BossFight@2.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\BossFight@2\BossFight@2\obj\Debug\net5.0\BossFight@2.genruntimeconfig.cache
